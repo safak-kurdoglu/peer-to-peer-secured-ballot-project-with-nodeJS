@@ -1,5 +1,8 @@
 # peer-to-peer-secured-ballot-project-with-nodeJS
 
+The process on the code explain on : https://www.youtube.com/watch?v=IFgJv74W5bM&t=17s&ab_channel=safakkurdoglu ,
+and represented by the images below.
+
 ![p1-1](https://user-images.githubusercontent.com/67630859/181914707-ef1ac548-4e50-4f73-a2ad-094eecd79858.jpg)
 ![p2-1](https://user-images.githubusercontent.com/67630859/181914719-2e998c2d-c6e2-4df9-9f0c-2c5fd46ba1e9.jpg)
 ![p3-1](https://user-images.githubusercontent.com/67630859/181914725-9e6a2174-18b1-4312-8d4d-fc7ba435fe43.jpg)
